@@ -1,0 +1,8 @@
+{
+  "name": "Yumai",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "50030759"
+}
