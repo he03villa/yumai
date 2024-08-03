@@ -18,7 +18,7 @@ const routes: Routes = [
       },
       {
         path: '**',
-        redirectTo: 'folder/Inbox',
+        redirectTo: '',
         pathMatch: 'full'
       }
     ]
